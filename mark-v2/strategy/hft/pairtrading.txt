@@ -1,0 +1,73 @@
+import yfinance as yf
+import numpy as np
+import pandas as pd
+import statsmodels.api as sm
+from statsmodels.tsa.stattools import adfuller
+
+def fetch_data(tickers, start_date, end_date):
+    data = yf.download(tickers, start=start_date, end=end_date)['Adj Close']
+    return data
+
+def calculate_spread(data, ticker1, ticker2):
+    hedge_ratio = sm.OLS(data[ticker1], data[ticker2]).fit().params[0]
+    spread = data[ticker1] - hedge_ratio * data[ticker2]
+    return spread, hedge_ratio
+
+def test_stationarity(spread):
+    adf_result = adfuller(spread)
+    return adf_result[1] < 0.05
+
+def simple_trading_strategy(spread, entry_threshold, exit_threshold):
+    positions = np.zeros(len(spread))
+    in_trade = False
+    for i in range(1, len(spread)):
+        if not in_trade:
+            if spread[i] > entry_threshold:
+                positions[i] = -1  # Short spread (short ticker1, long ticker2)
+                in_trade = True
+            elif spread[i] < -entry_threshold:
+                positions[i] = 1   # Long spread (long ticker1, short ticker2)
+                in_trade = True
+        else:
+            if positions[i-1] == -1 and spread[i] < exit_threshold:
+                positions[i] = 0
+                in_trade = False
+            elif positions[i-1] == 1 and spread[i] > -exit_threshold:
+                positions[i] = 0
+                in_trade = False
+            else:
+                positions[i] = positions[i-1]
+    return positions
+
+def calculate_returns(data, ticker1, ticker2, positions, hedge_ratio):
+    returns = pd.Series(np.zeros(len(data)))
+    for i in range(1, len(data)):
+        if positions[i-1] == 1: # Long spread
+            returns[i] = (data[ticker1][i] - data[ticker1][i-1]) - hedge_ratio * (data[ticker2][i] - data[ticker2][i-1])
+        elif positions[i-1] == -1: # Short spread
+            returns[i] = - (data[ticker1][i] - data[ticker1][i-1]) + hedge_ratio * (data[ticker2][i] - data[ticker2][i-1])
+    return returns.cumsum()
+
+def run_pairs_trading(ticker1, ticker2, start_date, end_date, entry_threshold, exit_threshold):
+    data = fetch_data([ticker1, ticker2], start_date, end_date)
+    spread, hedge_ratio = calculate_spread(data, ticker1, ticker2)
+    if test_stationarity(spread):
+        positions = simple_trading_strategy(spread, entry_threshold, exit_threshold)
+        cumulative_returns = calculate_returns(data, ticker1, ticker2, positions, hedge_ratio)
+        return cumulative_returns
+    else:
+        print("Spread is not stationary.")
+        return None
+
+if __name__ == '__main__':
+    ticker1 = 'AAPL'
+    ticker2 = 'MSFT'
+    start_date = '2023-01-01'
+    end_date = '2024-01-01'
+    entry_threshold = 1.0
+    exit_threshold = 0.5
+
+    results = run_pairs_trading(ticker1, ticker2, start_date, end_date, entry_threshold, exit_threshold)
+
+    if results is not None:
+        print(results)
