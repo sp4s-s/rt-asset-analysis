@@ -1,0 +1,1359 @@
+hey everyone eric here in this video
+
+i'm going to help you understand what is
+
+financial modeling and what is the
+
+purpose of a financial model in the real
+
+world
+
+after that we're going to walk step by
+
+step through how to build a simple
+
+financial model
+
+okay let's get started okay so let's
+
+talk about what financial modeling is
+
+and then
+
+talk about the components of a real
+
+financial model
+
+so a financial model shows a prediction
+
+about the future financial performance
+
+of a company
+
+and it's very important that i say the
+
+word future
+
+because anything related to future
+
+predictions is the field of finance
+
+anything related to analyzing and
+
+organizing data about the past
+
+is called accounting so accounting is
+
+more focused on
+
+accuracy in the past and finance is more
+
+focused on
+
+not necessarily getting it perfect but
+
+making good predictions about the future
+
+and of course they'll never be correct
+
+but it's all about trying to build
+
+predictions that make sense so the most
+
+common
+
+type of financial model is called the
+
+income statement or
+
+also known as the profit and loss
+
+statement and the income statement shows
+
+the sales from our business
+
+minus the costs so at the bottom of the
+
+income statement
+
+you have a line that shows us the net
+
+profit of the company which is how much
+
+money
+
+we made or lost from doing business
+
+and so what would we use a financial
+
+model for well
+
+the first thing is to anticipate the
+
+future so we can have an idea
+
+of what's going to happen financially so
+
+that we have the opportunity to make
+
+changes
+
+so for example let's say we want to roll
+
+out a new product at a certain price
+
+point
+
+when we build the financial model we
+
+might see that the price point is too
+
+low
+
+and we're actually going to lose money
+
+we might see that we
+
+need to change some of our costs so it
+
+allows us
+
+to analyze new opportunities about the
+
+future
+
+so that we can have more confidence
+
+about going forward or
+
+maybe we're less confident and we need
+
+to make changes but it gives us
+
+information about things that haven't
+
+happened yet so that's why finance is
+
+very powerful
+
+what else do we use financial models for
+
+well
+
+one of the biggest reasons is to raise
+
+investment capital
+
+so if you need a venture capital
+
+investment for your business because
+
+it's losing money but in the future it's
+
+going to make money
+
+you would need to show financial models
+
+you would need to be able to predict the
+
+future business
+
+to get investors to invest in your
+
+company also if you need to get a loan
+
+so a debt investment you would need
+
+really solid financial models that would
+
+show
+
+that you could pay off the loan so
+
+they're very useful for running
+
+companies
+
+getting investment in companies and just
+
+uh sort of
+
+seeing the future before it happens so
+
+steps to creating financial models so
+
+now we are in the part of the video
+
+where we're going to talk about
+
+how to create a financial model and what
+
+are the basic
+
+sections of a financial model how should
+
+we move through it
+
+so there's a few components of a
+
+financial model
+
+you have step one which is building the
+
+revenue plan
+
+the revenue is the sales it's the same
+
+word
+
+and so to understand what the sales are
+
+going to be you need to understand what
+
+products you're selling
+
+how many orders of each product you
+
+expect what are the prices of each
+
+product and then you need to understand
+
+new customers returning customers
+
+if you have any discounts or promotions
+
+things like that to build
+
+your actual sales next you have
+
+something called the cost of sales
+
+so the cost of sales are all of the
+
+direct costs
+
+related to delivering the product so
+
+when i say direct costs i mean
+
+if you're selling for instance a
+
+clothing item
+
+the direct costs are the thing that
+
+touch the piece of clothing itself
+
+so the materials the labor for the
+
+people that are
+
+involved in the manufacturing of the
+
+clothing maybe shipping from the
+
+clothing
+
+so any costs that are directly touching
+
+the product are in a section called the
+
+cost of sales
+
+next you have something called the
+
+operating expenses
+
+so this is step three of building the
+
+model collecting all the information
+
+and projecting your operating expenses
+
+these are the fixed
+
+costs of the business so things that
+
+don't necessarily touch the product but
+
+that are important
+
+so this would be all your corporate
+
+payroll so these people probably don't
+
+touch the clothing in any way but
+
+they're running the marketing
+
+they might be the ceo there might be the
+
+accounting team
+
+maybe your office rent so you have a lot
+
+of costs that don't touch the product
+
+and then once you've collected all those
+
+costs you can start to understand
+
+what is the profit margin because the
+
+profit margin is the revenue
+
+minus your cost of sales minus your
+
+operating expenses and that is what your
+
+operating profit is
+
+but there's different types of profit
+
+margins you have your gross profit
+
+margin
+
+which has to do directly with the
+
+product itself
+
+you have your operating profit margin
+
+which is your profits
+
+but before taxes and then you have your
+
+net profit which is your profit
+
+after taxes so let's jump into a real
+
+financial model and and walk through how
+
+we build one
+
+by the way if you're finding this
+
+content valuable please like this video
+
+and subscribe to my channel
+
+right now so that you don't miss any of
+
+my new videos
+
+okay so here's the setup for a financial
+
+model that we're going to build right
+
+now
+
+so you can see i put step one step two
+
+step three
+
+and step four next to the sections that
+
+we're gonna build
+
+and this is the format of an income
+
+statement generally at the top
+
+you see revenue then you see costs of
+
+goods sold which are your direct costs
+
+then gross profit which is the profit
+
+that you derive from the sales of the
+
+product but it does not include fixed
+
+costs
+
+operating expenses are your fixed costs
+
+and then you have different types of
+
+profit
+
+depending on if you include or exclude
+
+taxes
+
+so let's walk through how you would
+
+build something like this so step one
+
+revenue plan so
+
+typically with a revenue plan the first
+
+thing you need to figure out is how many
+
+orders you're going to sell
+
+and so let's say we are a clothing
+
+company like i just mentioned
+
+and we have an online store so we're an
+
+e-commerce business we have no physical
+
+locations it's
+
+all a completely digital store
+
+and we are driving sales through online
+
+advertising through facebook and google
+
+and pinterest and reddit and anywhere
+
+else we can do advertising
+
+so to get the number of orders
+
+we need to use something called the
+
+customer acquisition cost
+
+so let's say that the customer
+
+acquisition cost is 40.
+
+so the customer acquisition cost is the
+
+amount of advertising
+
+spend we need to spend to get one new
+
+person to buy for the very first time so
+
+for every forty dollars in marketing
+
+we are able to get one person to buy
+
+so after spending forty dollars in ads
+
+one new person buys so our customer
+
+acquisition cost is 40.
+
+let's say in year two it goes down to 35
+
+and year 3 30 and year 425.
+
+okay so now we have our customer
+
+acquisition cost but now let's talk
+
+about our average order value
+
+so that is the uh the value in sales
+
+of one order on average so let's say our
+
+typical customer
+
+is buying 89
+
+in their typical order so they're buying
+
+a couple different items and on average
+
+if you look at all the sales divided by
+
+all the orders
+
+the typical order is eighty nine dollars
+
+and we spend forty dollars of those
+
+eighty nine dollars on marketing
+
+okay with this information we can
+
+predict the entirety of the revenue
+
+plan so what we're going to do is we're
+
+going to take a hundred thousand dollars
+
+in marketing
+
+and i am just putting that budget out
+
+there to to show
+
+in year one we spend a hundred thousand
+
+year two 250 or three a million year for
+
+three million just to show a business
+
+scaling up over time
+
+but again i just completely made those
+
+numbers up so
+
+if we spend a hundred thousand dollars
+
+in marketing and
+
+it costs us forty dollars in marketing
+
+to get one new order
+
+then the new orders are going to be a
+
+hundred thousand divided by forty
+
+twenty five hundred so here i can copy
+
+this formula across
+
+i can hold down control and tap c
+
+hold down shift right arrow three times
+
+and control and tap v that's paste
+
+so now you can see that here we spend
+
+three million dollars
+
+and every 25 dollars that we spend we
+
+get one new order and that amounts 220
+
+new orders
+
+but a really important part of
+
+predicting financials
+
+is understanding okay someone buys for
+
+the first time but how often do they
+
+come back
+
+and purchase a second time or you know
+
+start to repurchase
+
+so let's put a return rate in the model
+
+of 60 percent
+
+and this is an annual return rate
+
+because i'm looking at this on an annual
+
+basis
+
+it's not a monthly model it's an annual
+
+model
+
+so sixty percent means that of all the
+
+people who bought
+
+in year one sixty percent are going to
+
+come back and buy in year two
+
+so i'm gonna take the total from year
+
+one and multiply it by 60.
+
+and this is going to be 1500 orders ctrl
+
+c right arrow ctrl v copy this over
+
+and then you can see that you have new
+
+orders you have returning orders and
+
+then your total order's down below
+
+so your total orders times
+
+your average revenue per order which is
+
+called your average order value
+
+is going to be your total revenue so
+
+let's go up and remember step one
+
+you stay in step one until step one is
+
+done so it's build the revenue
+
+so i'm just going to link in here orders
+
+i hit the equal sign
+
+go down below link in total orders
+
+it's nice to put something like total
+
+orders at the top not everyone does it
+
+but it gives you a sense of sort of
+
+um you know how much are you selling and
+
+what are some metrics beyond just the
+
+dollars or the
+
+you know the currency uh that reflect
+
+the operations of your business
+
+so for revenue all we need to do is take
+
+total orders times
+
+average order value and so in this case
+
+ctrl c right arrow ctrl v
+
+you'll see that this gives us our annual
+
+sale so it's 220
+
+000 then it's almost 800 then it's 3.5
+
+and it's 12.8
+
+and so we're an e-commerce business and
+
+businesses that sell digitally online
+
+can scale really really fast because
+
+there's nothing that prevents them from
+
+growing they have no physical
+
+infrastructure to limit their growth
+
+all they're doing is just selling and
+
+selling and selling as fast as they can
+
+so really a lot of ecommerce businesses
+
+do grow like this
+
+it's quite common so now let's move on
+
+to
+
+step two cost of sales so the direct
+
+costs related to our product
+
+so if we're manufacturing clothing
+
+and then customers place an order on our
+
+website
+
+we pack their order into a box and then
+
+we ship it
+
+the those are all of our cost of sales
+
+direct costs that touch our product
+
+so let's talk about the cost of goods
+
+sold
+
+cogs per order so
+
+let's say that on average for 189
+
+order the cost of the actual product the
+
+cost of the clothing
+
+is 17 so 17 here
+
+next we're going to have fulfillment so
+
+fulfillment is
+
+the cost to of all the employees working
+
+in the fulfillment center
+
+of the boxes of any packing materials as
+
+well as the
+
+shipping cost to ship it from the
+
+fulfillment center
+
+to get to the customer's door so let's
+
+say that the typical 89
+
+order costs 28 dollars and has 28
+
+dollars in fulfillment costs
+
+and then finally the other thing that
+
+touches the product directly is customer
+
+service
+
+because these people speak directly with
+
+the customers
+
+about the product so we consider that a
+
+cost of sales
+
+cost and we're saying that it's seven
+
+dollars on a per
+
+order basis let's say we have um a team
+
+maybe one or two customer service people
+
+and their salaries divided by the total
+
+orders ends up being about seven dollars
+
+of of customer service cost per order so
+
+now how do we calculate the full numbers
+
+well these are per order cost so we just
+
+need to multiply these numbers
+
+by the number of orders so
+
+let's go ahead and do that up above so
+
+for product i'll just do
+
+equals i'll link in the number of
+
+orders but in this case i'm going to
+
+actually
+
+tap f4 f4 okay
+
+so you can see that i have a dollar sign
+
+here in front
+
+of the 37 in front of the row so that's
+
+going to lock this row
+
+so that i can basically just write this
+
+formula one time
+
+so now i'm going to multiply this by
+
+product cost
+
+and i'll explain that formula to you
+
+here in a second so if i multiply this
+
+across you can see that
+
+your product costs are getting
+
+multiplied the number of orders times
+
+the product but then if i take this
+
+formula
+
+and i copy it down here
+
+and i'm just going to take away the
+
+dollar signs
+
+and with financial models by the way
+
+generally you'll have
+
+a dollar sign so this is called an
+
+accounting format here
+
+on the top row of each block of data and
+
+on the bottom row but in the middle
+
+you do just commas like this and
+
+it's just the best practice that we do
+
+in the industry
+
+and it makes it look a little bit
+
+cleaner okay so what happened when i
+
+copied this formula well because i put
+
+the dollar sign in front of the 37
+
+it continued to be locked to row 37 even
+
+though i copied it down one cell
+
+but because i didn't lock this cell
+
+the reference moved down one row
+
+so what it basically means is that i can
+
+continue copying this formula
+
+and these references will move up and
+
+down if i copy them up and down to
+
+different rows
+
+but the order row is always going to
+
+stay in row 37.
+
+so here you can see that again
+
+i copied this down and the row is still
+
+locked because i'm locked to row 37 with
+
+the dollar sign
+
+but the customer service
+
+per order cost move down one row so
+
+these are called cell references
+
+and i'll include a video i have a video
+
+that goes over sort of locked cell
+
+references and it just improves your
+
+efficiency and allows you to write
+
+fewer and better formulas in excel okay
+
+so now that we have
+
+this all figured out we just need to add
+
+up the cost of goods sold
+
+so i put a little um bottom border on
+
+this
+
+and then hit equal sum open parentheses
+
+and grab the whole section so here you
+
+can see that
+
+we have our total revenue we have our
+
+total cost of sales so now we're done
+
+with step two we built the
+
+assumptions down below and then up above
+
+we built the projections so
+
+now do we go to gross profit well let's
+
+finish up with step three
+
+so step three is forecast your operating
+
+expenses so step three operating
+
+expenses and so in this model
+
+we have a few operating expenses and
+
+the main one is going to be payroll so
+
+i'm going to say that in the first year
+
+there's just like one or two people
+
+working for the business and we have
+
+payroll of a hundred thousand dollars
+
+and we're just running everything on
+
+shopify and kind of doing everything
+
+ourself
+
+but as we grow we hire a few employees
+
+so we hire another employee this year
+
+at fifty thousand dollars then we have
+
+two hundred and fifty thousand dollars
+
+um and then in year four as we're
+
+scaling up we hire a couple more people
+
+we're at three hundred and fifty
+
+thousand dollars
+
+and then we have other expenses and you
+
+know in a real business
+
+you would probably have in the operating
+
+expenses lots of different expenses
+
+you'd have
+
+rent you'd have um you know consultants
+
+you would have legal
+
+you'd have a lot of categories but i'm
+
+just trying to show you what's the basic
+
+setup
+
+so that when you see a more complex
+
+model you will immediately understand
+
+what the sections mean and you'll
+
+understand how the model flows
+
+so in other expenses i'm just saying
+
+this is everything
+
+consultants rent all anything else that
+
+the business has so
+
+let's say in year one it's thirty
+
+thousand dollars because like i said
+
+we're just
+
+you know one or two people working on
+
+this business and then it's fifty
+
+thousand
+
+so maybe we need some more consultants
+
+to help us with marketing to help us
+
+with
+
+uh legal and then it goes up to finally
+
+ninety thousand dollars
+
+okay and let's say that the corporate
+
+tax rate is 28 percent
+
+um in the us it looks like it's going to
+
+be 28 percent
+
+um in the next few years so just putting
+
+that in
+
+so now let's go back that's all we
+
+needed here for step three
+
+operating expenses and the tax rate so
+
+let's link in our number so first we
+
+have payroll so
+
+payroll just link it in equals link it
+
+in
+
+then we have other expenses here
+
+and then marketing we put up above
+
+marketing always goes and your operating
+
+expenses so
+
+don't forget to include your marketing
+
+because that is obviously
+
+the largest expense um one of the
+
+largest expenses at our business
+
+now equals sum open parentheses
+
+ctrl c right arrow ctrl v
+
+so now we finish step three operating
+
+expenses
+
+oh but we have one last thing um
+
+to before we can calculate these two
+
+different types of profit margins here
+
+and here
+
+we do need to calculate the taxes but
+
+that's going to come in step four
+
+so now we're in step four and let's
+
+calculate the profit
+
+margins so the first profit margin that
+
+we have is the gross profit and that's
+
+revenue minus cost of goods sold so
+
+what we do is we take the revenue and we
+
+subtract
+
+cost of goods sold all our direct costs
+
+control c
+
+shift right arrow control v so you can
+
+see in this case i put in this formula
+
+before i started the video
+
+that our gross profit margin which means
+
+the total
+
+gross profit dollars divided by revenue
+
+and for profit margins you always divide
+
+it by revenue
+
+is 42 so this shows us that sort of
+
+after we someone buys the product from
+
+us and then we
+
+make the product and ship it to them and
+
+do the customer service
+
+we have this number left over to
+
+basically pay our full-time staff to pay
+
+our rent
+
+to pay our marketing so 42 gross profit
+
+margin
+
+um and this number can vary wildly
+
+sometimes it's as low as
+
+15 percent and sometimes it's as high as
+
+90 really really depends on the product
+
+itself
+
+okay so next operating expenses so you
+
+have your
+
+operating income your operating income
+
+is your gross profit
+
+minus your operating expenses and i call
+
+that opex but that just means operating
+
+expenses
+
+so here you can see and this is also
+
+called pre-tax
+
+net income because it's your total
+
+profits but before you pay taxes
+
+you can see that in the first two years
+
+it's negative so as our business is
+
+growing
+
+it's actually losing money but in the
+
+third year we basically break even
+
+and then the fourth year we have a very
+
+very large profit
+
+so now that we see the operating income
+
+we're going to have to do
+
+taxes so let's look at taxes any year
+
+where you have
+
+a loss in terms of you know you don't
+
+have any profits for the business
+
+you don't pay taxes because you don't
+
+pay taxes unless you make money
+
+so and these losses you can actually
+
+carry forward to offset
+
+future profits so if i lost a million
+
+dollars last year in my business
+
+and then i made a million dollars this
+
+year i actually won't pay any taxes this
+
+year
+
+because i can use the loss to offset my
+
+gain
+
+so you can use previous year's losses to
+
+offset future gains
+
+until your gains exceed your losses and
+
+so let me show you
+
+quickly with a formula how you can sort
+
+of calculate that
+
+so you you create something called like
+
+a tax loss
+
+i'm calling it an asset and what i'm
+
+doing is i just take the loss here
+
+from this year so if i go up you can see
+
+that i'm just linking in the loss
+
+and then i'm adding the loss
+
+to uh your the the loss from the second
+
+year
+
+so now you can see that we've
+
+accumulated 267 thousand dollars of
+
+losses
+
+and in year three i'm doing the same
+
+thing 267 plus
+
+we had a gain of a hundred thousand but
+
+267 000
+
+plus 100 000 you're still net in a loss
+
+for the business so you don't need to
+
+pay taxes that year
+
+and then this year i took our cumulative
+
+losses and i added the profits
+
+and we finally got to a positive
+
+territory so we're not going to be
+
+paying taxes on
+
+1.8 million of income we're actually
+
+going to be paying taxes on 1.68
+
+because it's all the previous losses um
+
+added to this profit so the profit's a
+
+little lower because some part of the
+
+income is still not taxable
+
+so taxes and again this is just a little
+
+trick
+
+so i'm going to say if the if formula
+
+if our cumulative tax loss asset
+
+is less than zero so if we've
+
+cumulatively made no profits
+
+comma shows zero for taxes
+
+if cumulatively we've started to make a
+
+profit
+
+what we can do is we can multiply
+
+this number by 28
+
+and this is just a simple if formula so
+
+you'll see here that
+
+taxes are shown as zero in all years but
+
+in this year
+
+we have our 1.68
+
+million tax tax loss asset times 28
+
+percent
+
+and we finally pay taxes and this allows
+
+us to calculate our net income
+
+so it's operating income minus taxes
+
+so in year one you can see that our net
+
+income is
+
+negative 62 that's our margin then
+
+negative 17
+
+then three percent and then 11
+
+all right well that's all for today i
+
+hope you now have a really good
+
+understanding of what financial modeling
+
+is and how to build a financial model
+
+by the way in the description below you
+
+can download this excel file completely
+
+for free if you want to use it for
+
+yourself
+
+i've also linked down below to some of
+
+my other financial modeling videos check
+
+those out
+
+and if you found this content valuable
+
+please subscribe and click the little
+
+bell icon
+
+like this video and leave me a comment
+
+below and also check out
+
+my online programs if you want to do
+
+more finance training with me
+
+that's all for today thanks for watching
+
+and i'll see you in the next video
